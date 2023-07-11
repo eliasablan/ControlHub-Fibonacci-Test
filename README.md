@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ```
 3. Run the API server:
 ```
-python fibonacci_api.py
+python fibonacci.py
 ```
 The server will start running at http://localhost:5000.
 
